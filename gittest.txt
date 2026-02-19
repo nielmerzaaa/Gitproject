@@ -1,2 +1,3 @@
 Git project first test
 this is the second line of my gittest file
+this is the third line of my gittest file
